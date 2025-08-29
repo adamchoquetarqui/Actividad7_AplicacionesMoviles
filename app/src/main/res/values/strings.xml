@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Sistema de Citas</string>
+    
+    <!-- Autenticación -->
+    <string name="sign_up">Crear Cuenta</string>
+    <string name="sign_in">Iniciar Sesión</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="register">Registrarse</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="already_have_account">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="no_account">¿No tienes cuenta? Regístrate</string>
+    
+    <!-- Navegación -->
+    <string name="back">Volver</string>
+    <string name="next">Siguiente</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm">Confirmar</string>
+    
+    <!-- Pantalla Principal -->
+    <string name="welcome">Bienvenido</string>
+    <string name="book_appointment">Reservar Cita</string>
+    <string name="book_appointment_desc">Programa una nueva cita</string>
+    <string name="appointments_history">Historial de Citas</string>
+    <string name="appointments_history_desc">Revisa tus citas programadas</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="notifications_desc">Recibirás notificaciones 15 min antes</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="app_title">Sistema de Reservas de Citas</string>
+    
+    <!-- Reserva de Citas -->
+    <string name="appointment_date">Fecha de la cita</string>
+    <string name="appointment_time">Hora de la cita</string>
+    <string name="appointment_reason">Motivo de la cita</string>
+    <string name="select_date">Seleccionar fecha</string>
+    <string name="select_time">Seleccionar hora</string>
+    <string name="date_selected">Fecha seleccionada: %s</string>
+    <string name="time_selected">Hora seleccionada: %s</string>
+    <string name="reason_hint">Describe el motivo de tu cita</string>
+    <string name="confirm_appointment">Confirmar Cita</string>
+    
+    <!-- Historial de Citas -->
+    <string name="total_appointments">Total de citas: %d</string>
+    <string name="no_appointments">No tienes citas programadas</string>
+    <string name="no_appointments_desc">Reserva tu primera cita para comenzar</string>
+    <string name="appointment_motivo">Motivo:</string>
+    <string name="appointment_status_scheduled">Programada</string>
+    <string name="appointment_status_completed">Completada</string>
+    <string name="appointment_status_cancelled">Cancelada</string>
+    <string name="complete_appointment">Completar</string>
+    <string name="cancel_appointment">Cancelar</string>
+    
+    <!-- Estados -->
+    <string name="loading">Cargando...</string>
+    <string name="error">Error</string>
+    <string name="success">Éxito</string>
+    
+    <!-- Notificaciones -->
+    <string name="notification_channel_name">Citas</string>
+    <string name="notification_channel_description">Notificaciones de citas</string>
+    <string name="appointment_reminder">Recordatorio de cita</string>
+    <string name="appointment_reminder_text">Tu cita está programada en 15 minutos</string>
+</resources>
