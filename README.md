@@ -15,14 +15,18 @@ Estudiante: Adam Fabio Choquetarui Villca
 
 A continuación se muestran imágenes representativas de cada pantalla principal de la aplicación:
 
-- **Pantalla de Autenticación:**
-  ![AuthScreen](./screenshots/auth_screen.png)
-- **Pantalla Principal:**
-  ![MainScreen](./screenshots/main_screen.png)
-- **Reserva de Cita:**
-  ![BookAppointmentScreen](./screenshots/book_appointment_screen.png)
-- **Historial de Citas:**
-  ![AppointmentsHistoryScreen](./screenshots/appointments_history_screen.png)
+- **Pantalla de Autenticación:**  
+  <img src="./screenshots/auth_screen.png" alt="AuthScreen" width="300"/>
+
+- **Pantalla Principal:**  
+  <img src="./screenshots/main_screen.png" alt="MainScreen" width="300"/>
+
+- **Reserva de Cita:**  
+  <img src="./screenshots/book_appointment_screen.png" alt="BookAppointmentScreen" width="300"/>
+
+- **Historial de Citas:**  
+  <img src="./screenshots/appointments_history_screen.png" alt="AppointmentsHistoryScreen" width="300"/>
+
 
 > Coloca tus imágenes en la carpeta `screenshots/` dentro del proyecto y actualiza los nombres de archivo si es necesario.
 - ✅ **Base de datos remota** con Firebase Firestore
